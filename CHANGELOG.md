@@ -1,3 +1,8 @@
+## 2017-12-13 - Release 0.12.0
+### Summary
+
+This release changes the wrapper [echoes-jasig](https://github.com/echoes-tech/puppet-jasig) by [soli-cas](https://github.com/solution-libre/puppet-cas)
+
 ## 2016-12-07 - Release 0.11.0
 ### Summary
 
