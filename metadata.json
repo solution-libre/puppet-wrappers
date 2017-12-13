@@ -1,12 +1,12 @@
 {
-  "name": "echoes-wrappers",
+  "name": "soli-wrappers",
   "version": "0.11.0",
-  "author": "Echoes Technologies",
+  "author": "Solution Libre SAS",
   "summary": "Puppet module to wrap some defined resource types that doesn't appear on Puppet's ENC Foreman",
   "license": "Apache-2.0",
-  "source": "https://github.com/echoes-tech/puppet-wrappers",
-  "project_page": "https://github.com/echoes-tech/puppet-wrappers",
-  "issues_url": "https://github.com/echoes-tech/puppet-wrappers/issues",
+  "source": "https://github.com/solution-libre/puppet-wrappers",
+  "project_page": "https://github.com/solution-libre/puppet-wrappers",
+  "issues_url": "https://github.com/solution-libre/puppet-wrappers/issues",
   "tags": [
     "foreman",
     "ENC"

@@ -1,7 +1,6 @@
 # wrappers
 
-[![Flattr Button](https://api.flattr.com/button/flattr-badge-large.png "Flattr This!")]
-(https://flattr.com/submit/auto?user_id=echoes&url=https://forge.puppetlabs.com/echoes/wrappers&title=Puppet%20module%20to%20wrap%20some%20defined%20resource%20types%20that%20doesn't%20appear%20on%20Puppet's%20ENC%20Foreman.&lang=en_GB&category=software "Puppet module to wrap some defined resource types that doesn't appear on Puppet's ENC Foreman")
+[![Build Status](https://travis-ci.org/solution-libre/puppet-wrappers.svg?branch=master)](https://travis-ci.org/solution-libre/puppet-wrappers)
 
 #### Table of Contents
 
@@ -72,7 +71,7 @@ Puppet module to wrap some defined resource types that doesn't appear on Puppet'
 * `wrappers::haproxy::backend`:  Wrapper for `::haproxy::backend`
 * `wrappers::haproxy::frontend`: Wrapper for `::haproxy::frontend`
 
-##### Wrappers for [echoes-jasig](https://github.com/echoes-tech/puppet-jasig)
+##### Wrappers for [echoes-jasig](https://github.com/solution-libre/puppet-jasig)
 
 * `wrappers::jasig::service`: Wrapper for `::jasig::service`
 
@@ -140,7 +139,7 @@ Puppet module to wrap some defined resource types that doesn't appear on Puppet'
 
 * `wrappers::wget::fetch`: Wrapper for `::wget::fetch`
 
-##### Wrappers for [echoes-nexus-artifact](https://github.com/echoes-tech/puppet-nexus-artifact)
+##### Wrappers for [echoes-nexus-artifact](https://github.com/solution-libre/puppet-nexus-artifact)
 
 * `wrappers::nexus_artifact::artifact`: Wrapper for `::nexus_artifact::artifact`
 
@@ -150,10 +149,10 @@ RedHat and Debian family OSes are officially supported. Tested and built on Debi
 
 ## Development
 
-[Echoes Technologies](https://echoes.fr) modules on the Puppet Forge are open projects, and community contributions are essential for keeping them great.
+[Solution Libre](https://www.solution-libre.fr) modules on the Puppet Forge are open projects, and community contributions are essential for keeping them great.
 
-[Fork this module on GitHub](https://github.com/echoes-tech/puppet-wrappers/fork)
+[Fork this module on GitHub](https://github.com/solution-libre/puppet-wrappers/fork)
 
 ## Contributors
 
-The list of contributors can be found at: https://github.com/echoes-tech/puppet-wrappers/graphs/contributors
+The list of contributors can be found at: https://github.com/solution-libre/puppet-wrappers/graphs/contributors
