@@ -71,9 +71,9 @@ Puppet module to wrap some defined resource types that doesn't appear on Puppet'
 * `wrappers::haproxy::backend`:  Wrapper for `::haproxy::backend`
 * `wrappers::haproxy::frontend`: Wrapper for `::haproxy::frontend`
 
-##### Wrappers for [echoes-jasig](https://github.com/solution-libre/puppet-jasig)
+##### Wrappers for [soli-cas](https://github.com/solution-libre/puppet-cas)
 
-* `wrappers::jasig::service`: Wrapper for `::jasig::service`
+* `wrappers::cas::service`: Wrapper for `::cas::service`
 
 ##### Wrappers for [rtyler-jenkins](https://forge.puppetlabs.com/rtyler/jenkins)
 
