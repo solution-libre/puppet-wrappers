@@ -1,6 +1,6 @@
 {
   "name": "soli-wrappers",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "author": "Solution Libre SAS",
   "summary": "Puppet module to wrap some defined resource types that doesn't appear on Puppet's ENC Foreman",
   "license": "Apache-2.0",
