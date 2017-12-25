@@ -1,3 +1,4 @@
+# See README.md for more details.
 class wrappers::concat (
   $resources = {},
   $defaults = {},

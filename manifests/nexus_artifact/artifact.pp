@@ -1,3 +1,4 @@
+# See README.md for more details.
 class wrappers::nexus_artifact::artifact (
   $resources = {},
   $defaults = {},

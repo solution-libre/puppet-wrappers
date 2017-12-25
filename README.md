@@ -117,7 +117,7 @@ Puppet module to wrap some defined resource types that doesn't appear on Puppet'
 
 * `wrappers::snmp::snmpv3_user`: Wrapper for `::snmp::snmpv3_user`
 
-##### Wrappers for [maestrodev-ssh_keygen](https://forge.puppetlabs.com/maestrodev/ssh_keygen)
+##### Wrappers for [maestrodev-ssh\_keygen](https://forge.puppetlabs.com/maestrodev/ssh_keygen)
 
 * `wrappers::ssh_keygen`: Wrapper for `::ssh_keygen`
 

@@ -1,3 +1,4 @@
+# See README.md for more details.
 class wrappers::apt::source (
   $resources = {},
   $defaults = {},
