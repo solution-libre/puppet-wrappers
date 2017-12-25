@@ -75,6 +75,10 @@ Puppet module to wrap some defined resource types that doesn't appear on Puppet'
 
 * `wrappers::cas::service`: Wrapper for `::cas::service`
 
+##### Wrappers for [puppetlabs-java\_ks](https://forge.puppetlabs.com/puppetlabs/java_ks)
+
+* `wrappers::java_ks`: Wrapper for `::java_ks`
+
 ##### Wrappers for [rtyler-jenkins](https://forge.puppetlabs.com/rtyler/jenkins)
 
 * `wrappers::jenkins::cli::exec`:  Wrapper for `::jenkins::cli::exec`

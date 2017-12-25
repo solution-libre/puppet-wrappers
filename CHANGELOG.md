@@ -1,3 +1,8 @@
+## 2017-12-25 - Release 0.13.0
+### Summary
+
+This release adds the wrapper for [puppetlabs-java\_ks](https://forge.puppet.com/puppetlabs/java_ks)
+
 ## 2017-12-13 - Release 0.12.0
 ### Summary
 
