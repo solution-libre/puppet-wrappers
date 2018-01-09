@@ -1,3 +1,8 @@
+## 2018-01-09 - Release 0.14.0
+### Summary
+
+This release adds the wrapper for [maestrodev-sonarqube](https://forge.puppetlabs.com/maestrodev/sonarqube)
+
 ## 2017-12-25 - Release 0.13.1
 ### Summary
 

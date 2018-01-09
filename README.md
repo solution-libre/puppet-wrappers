@@ -113,6 +113,10 @@ Puppet module to wrap some defined resource types that doesn't appear on Puppet'
 
 * `wrappers::redmine::plugin`: Wrapper for `::redmine::plugin`
 
+##### Wrappers for [maestrodev-sonarqube](https://forge.puppetlabs.com/maestrodev/sonarqube)
+
+* `wrappers::sonarqube::plugin`: Wrapper for `::sonarqube::plugin`
+
 ##### Wrappers for [razorsedge-snmp](https://forge.puppetlabs.com/razorsedge/snmp)
 
 * `wrappers::snmp::snmpv3_user`: Wrapper for `::snmp::snmpv3_user`
