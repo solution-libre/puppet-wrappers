@@ -1,7 +1,18 @@
+## 2018-01-23 - Release 0.15.0
+### Summary
+
+This release replaces [gnubilafrance-backupninja](https://forge.puppetlabs.com/gnubilafrance/backupninja) by [soli-backupninja](https://forge.puppet.com/soli/backupninja).
+
+#### Features
+- Added wrapper for `backupninja::pgsql` from [soli-backupninja](https://forge.puppet.com/soli/backupninja)
+
 ## 2018-01-09 - Release 0.14.0
 ### Summary
 
-This release adds the wrapper for [maestrodev-sonarqube](https://forge.puppetlabs.com/maestrodev/sonarqube)
+This release adds the wrapper for [maestrodev-sonarqube](https://forge.puppetlabs.com/maestrodev/sonarqube).
+
+#### Features
+- Added wrapper for `sonarqube::plugin` from [maestrodev-sonarqube](https://forge.puppetlabs.com/maestrodev/sonarqube)
 
 ## 2017-12-25 - Release 0.13.1
 ### Summary

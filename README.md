@@ -47,10 +47,11 @@ Puppet module to wrap some defined resource types that doesn't appear on Puppet'
 
 * `wrappers::archive`: Wrapper for `::archive`
 
-##### Wrappers for [gnubilafrance-backupninja](https://forge.puppetlabs.com/gnubilafrance/backupninja)
+##### Wrappers for [soli-backupninja](https://forge.puppetlabs.com/soli/backupninja)
 
 * `wrappers::backupninja::config`: Wrapper for `::backupninja::config`
 * `wrappers::backupninja::mysql`:  Wrapper for `::backupninja::mysql`
+* `wrappers::backupninja::pgsql`:  Wrapper for `::backupninja::pgsql`
 * `wrappers::backupninja::rdiff`:  Wrapper for `::backupninja::rdiff`
 
 ##### Wrappers for [puppetlabs-concat](https://forge.puppetlabs.com/puppetlabs/concat)
