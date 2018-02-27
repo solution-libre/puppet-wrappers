@@ -1,3 +1,11 @@
+## 2018-O2-27 - Release 0.17.0
+### Summary
+
+This release adds `archive::nexus` wrapper for [puppet-archive](https://forge.puppet.com/puppet/archive).
+
+#### Features
+- Added wrapper for `archive::nexus` from [puppet-archive](https://forge.puppet.com/puppet/archive)
+
 ## 2018-O2-27 - Release 0.16.1
 ### Summary
 

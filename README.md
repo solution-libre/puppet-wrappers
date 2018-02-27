@@ -45,7 +45,8 @@ Puppet module to wrap some defined resource types that doesn't appear on Puppet'
 
 ##### Wrappers for [puppet-archive](https://forge.puppet.com/puppet/archive)
 
-* `wrappers::archive`: Wrapper for `::archive`
+* `wrappers::archive`:        Wrapper for `::archive`
+* `wrappers::archive::nexus`: Wrapper for `::archive::nexus`
 
 ##### Wrappers for [soli-backupninja](https://forge.puppetlabs.com/soli/backupninja)
 
