@@ -1,3 +1,12 @@
+## 2018-02-27 - Release 0.16.0
+### Summary
+
+This release adds wrappers for [camptocamp-postfix](https://forge.puppetlabs.com/camptocamp/postfix) and [puppetlabs-tomcat](https://forge.puppetlabs.com/puppetlabs/tomcat).
+
+#### Features
+- Added wrapper for `postfix::config` from [camptocamp-postfix](https://forge.puppetlabs.com/camptocamp/postfix)
+- Added wrapper for `tomcat::config::server::tomcat_users` from [puppetlabs-tomcat](https://forge.puppetlabs.com/puppetlabs/tomcat)
+
 ## 2018-01-23 - Release 0.15.0
 ### Summary
 
