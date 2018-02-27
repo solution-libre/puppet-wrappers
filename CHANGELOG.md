@@ -1,3 +1,8 @@
+## 2018-O2-27 - Release 0.16.1
+### Summary
+
+This release fixes the README file with descriptions for the wrappers from v0.16.0.
+
 ## 2018-02-27 - Release 0.16.0
 ### Summary
 
