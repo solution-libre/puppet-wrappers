@@ -1,3 +1,11 @@
+## 2018-02-27 - Release 0.18.0
+### Summary
+
+This release adds `postfix::hash` wrapper for [camptocamp-postfix](https://forge.puppetlabs.com/camptocamp/postfix).
+
+#### Features
+- Added wrapper for `postfix::hash` from [camptocamp-postfix](https://forge.puppetlabs.com/camptocamp/postfix)
+
 ## 2018-O2-27 - Release 0.17.0
 ### Summary
 

@@ -106,6 +106,7 @@ Puppet module to wrap some defined resource types that doesn't appear on Puppet'
 ##### Wrappers for [camptocamp-postfix](https://forge.puppetlabs.com/camptocamp/postfix)
 
 * `wrappers::postfix::config`: Wrapper for `::postfix::config`
+* `wrappers::postfix::hash`:   Wrapper for `::postfix::hash`
 
 ##### Wrappers for [stankevich-python](https://forge.puppetlabs.com/stankevich/python)
 
