@@ -102,6 +102,10 @@ Puppet module to wrap some defined resource types that doesn't appear on Puppet'
 * `wrappers::openssl::certificate::x509`: Wrapper for `::openssl::certificate::x509`
 * `wrappers::openssl::export::pkcs12`:    Wrapper for `::openssl::export::pkcs12`
 
+##### Wrappers for [camptocamp-postfix](https://forge.puppetlabs.com/camptocamp/postfix)
+
+* `wrappers::postfix::config`: Wrapper for `::postfix::config`
+
 ##### Wrappers for [stankevich-python](https://forge.puppetlabs.com/stankevich/python)
 
 * `wrappers::python::gunicorn`:     Wrapper for `::python::gunicorn`
@@ -136,9 +140,10 @@ Puppet module to wrap some defined resource types that doesn't appear on Puppet'
 
 ##### Wrappers for [puppetlabs-tomcat](https://forge.puppetlabs.com/puppetlabs/tomcat)
 
-* `wrappers::tomcat::instance`: Wrapper for `::tomcat::instance`
-* `wrappers::tomcat::service`:  Wrapper for `::tomcat::service`
-* `wrappers::tomcat::war`:      Wrapper for `::tomcat::war`
+* `wrappers::tomcat::config::server::tomcat_users`: Wrapper for `::tomcat::config::server::tomcat_users`
+* `wrappers::tomcat::instance`:                     Wrapper for `::tomcat::instance`
+* `wrappers::tomcat::service`:                      Wrapper for `::tomcat::service`
+* `wrappers::tomcat::war`:                          Wrapper for `::tomcat::war`
 
 ##### Wrappers for [puppetlabs-vcsrepo](https://forge.puppetlabs.com/puppetlabs/vcsrepo)
 
