@@ -1,3 +1,14 @@
+## 2018-03-06 - Release 0.19.0
+### Summary
+
+This release adds `tomcat::install` wrapper for [puppetlabs-tomcat](https://forge.puppetlabs.com/puppetlabs/tomcat).
+
+#### Features
+- Added wrapper for `tomcat::install` from [puppetlabs-tomcat](https://forge.puppetlabs.com/puppetlabs/tomcat)
+
+#### Changes
+- Used PDK 1.4.1
+
 ## 2018-02-27 - Release 0.18.0
 ### Summary
 
