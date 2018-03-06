@@ -144,6 +144,7 @@ Puppet module to wrap some defined resource types that doesn't appear on Puppet'
 
 * `wrappers::tomcat::config::server::tomcat_users`: Wrapper for `::tomcat::config::server::tomcat_users`
 * `wrappers::tomcat::instance`:                     Wrapper for `::tomcat::instance`
+* `wrappers::tomcat::install`:                      Wrapper for `::tomcat::install`
 * `wrappers::tomcat::service`:                      Wrapper for `::tomcat::service`
 * `wrappers::tomcat::war`:                          Wrapper for `::tomcat::war`
 
