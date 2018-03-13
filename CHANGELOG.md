@@ -1,3 +1,14 @@
+## 2018-03-13 - Release 0.21.1
+### Summary
+
+This release fixes `tomcat::config::context::manager`.
+
+#### Bugfixes
+- Fixed syntax of wrapper for `tomcat::config::context::manager`
+
+#### Features
+- Added wrapper for `tomcat::config::context::manager` from [puppetlabs-tomcat](https://forge.puppetlabs.com/puppetlabs/tomcat)
+
 ## 2018-03-13 - Release 0.21.0
 ### Summary
 
