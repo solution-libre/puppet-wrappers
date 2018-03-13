@@ -142,6 +142,7 @@ Puppet module to wrap some defined resource types that doesn't appear on Puppet'
 
 ##### Wrappers for [puppetlabs-tomcat](https://forge.puppetlabs.com/puppetlabs/tomcat)
 
+* `wrappers::tomcat::config::context::manager`:     Wrapper for `::tomcat::config::context::manager`
 * `wrappers::tomcat::config::context::resource`:    Wrapper for `::tomcat::config::context::resource`
 * `wrappers::tomcat::config::server::tomcat_users`: Wrapper for `::tomcat::config::server::tomcat_users`
 * `wrappers::tomcat::instance`:                     Wrapper for `::tomcat::instance`
