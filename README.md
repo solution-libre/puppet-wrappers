@@ -1,5 +1,8 @@
 # wrappers
 
+[![Puppet Forge Version](http://img.shields.io/puppetforge/v/soli/wrappers.svg)](https://forge.puppetlabs.com/soli/wrappers)
+[![Puppet Forge Downloads](http://img.shields.io/puppetforge/dt/soli/wrappers.svg)](https://forge.puppetlabs.com/soli/wrappers)
+[![Puppet Forge Score](http://img.shields.io/puppetforge/f/soli/wrappers.svg)](https://forge.puppetlabs.com/soli/wrappers)
 [![Build Status](https://travis-ci.org/solution-libre/puppet-wrappers.svg?branch=master)](https://travis-ci.org/solution-libre/puppet-wrappers)
 
 #### Table of Contents
@@ -12,7 +15,7 @@
 
 ## Overview
 
-Puppet module to wrap some defined resource types that doesn't appear on Puppet's ENC Foreman
+Puppet module to wrap some defined resource types that doesn't appear on Puppet's ENC [Foreman](http://theforeman.org/).
 
 ## Reference
 

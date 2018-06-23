@@ -1,3 +1,7 @@
+## 2018-06-21 - Release 0.21.2
+### Summary
+This release benefited from the changes introduced by PDK 1.6.0 (`pdk update`).
+
 ## 2018-03-13 - Release 0.21.1
 ### Summary
 
